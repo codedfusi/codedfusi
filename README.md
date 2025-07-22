@@ -1,10 +1,11 @@
-<img src="https://files.catbox.moe/7r5h8x.png" width="100px" alt="redface" align="left">
+<img src="https://github.com/user-attachments/assets/e0544173-8f13-45d2-9c14-f620aef7a801" width="100px" alt="redface" align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007AFF&width=435&lines=Security+Researcher+%7C+Fusi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=200&width=435&lines=Security+Researcher+%7C+Backend+Developer)](https://git.io/typing-svg)
+
+
 
 ```csharp
 github.com/codedfusi
 dc   $  @reigniting
 srv  $  ???
 ```
-
